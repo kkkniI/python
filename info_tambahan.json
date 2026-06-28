@@ -1,0 +1,37 @@
+{
+    "Gadang": {
+        "Nama": "Rumah Gadang",
+        "Asal Daerah": "Sumatera Barat (Suku Minangkabau)",
+        "Ciri Khas": "Memiliki atap yang melengkung tajam seperti tanduk kerbau (disebut gonjong). Bangunannya berbentuk panggung memanjang.",
+        "Fungsi": "Tempat tinggal keluarga besar (khususnya pihak perempuan), tempat musyawarah keluarga, dan pelaksanaan upacara adat.",
+        "Material Utama": "Kayu untuk tiang dan dinding, bambu, serta ijuk untuk penutup atap."
+    },
+    "Honai": {
+        "Nama": "Rumah Honai",
+        "Asal Daerah": "Papua (Suku Dani)",
+        "Ciri Khas": "Berbentuk bundar mungil dengan atap melengkung setengah bulat atau kerucut. Tidak memiliki jendela untuk menahan hawa dingin pegunungan.",
+        "Fungsi": "Tempat tinggal bagi laki-laki dewasa, tempat menyimpan senjata, simbol budaya, dan mengasapi mumi (untuk suku tertentu).",
+        "Material Utama": "Kayu besi untuk tiang penyangga, rotan, dan jerami atau ilalang untuk atap."
+    },
+    "Joglo": {
+        "Nama": "Rumah Joglo",
+        "Asal Daerah": "Jawa Tengah, Jawa Timur, dan DI Yogyakarta",
+        "Ciri Khas": "Memiliki atap berbentuk tajug (seperti gunung) dan terdapat area luas di bagian depan tanpa sekat yang disebut Pendopo.",
+        "Fungsi": "Pendopo untuk menerima tamu atau mengadakan pertunjukan seni, sedangkan bagian dalam (Omah Ndalem) untuk ruang privasi keluarga.",
+        "Material Utama": "Kayu jati kualitas tinggi yang kokoh dan awet."
+    },
+    "Panjang": {
+        "Nama": "Rumah Panjang (Radakng / Betang)",
+        "Asal Daerah": "Kalimantan (Suku Dayak)",
+        "Ciri Khas": "Bangunan berbentuk panggung dengan panjang bisa mencapai lebih dari 100 meter dan tinggi tiang hingga 3-5 meter.",
+        "Fungsi": "Tempat tinggal bersama puluhan kepala keluarga dalam satu komunal, serta sebagai benteng pertahanan dari serangan binatang buas atau musuh.",
+        "Material Utama": "Kayu keras khas Kalimantan (seperti Kayu Ulin) yang anti rayap dan tahan cuaca."
+    },
+    "Tongkonan": {
+        "Nama": "Rumah Tongkonan",
+        "Asal Daerah": "Sulawesi Selatan (Suku Toraja)",
+        "Ciri Khas": "Atapnya melengkung menyerupai perahu, dan di bagian depan rumah biasanya dihiasi dengan susunan tanduk kerbau.",
+        "Fungsi": "Pusat kehidupan spiritual dan sosial Suku Toraja, tempat penyimpanan padi, dan lokasi pelaksanaan ritual adat.",
+        "Material Utama": "Kayu Uru untuk struktur utama, bambu yang disusun bertumpuk untuk atap, dan diikat menggunakan rotan."
+    }
+}
